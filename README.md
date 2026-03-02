@@ -105,7 +105,6 @@ a future release.
 ## Credits
 
 Built with ❤️ by **Mohammad Sahil**
-Designer & Developer
 
 ---
 
