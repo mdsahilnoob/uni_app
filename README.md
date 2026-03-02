@@ -5,6 +5,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Flutter](https://img.shields.io/badge/Flutter-3.29-blue?logo=flutter)](https://flutter.dev)
 
+
+![Preview](assets/images/preview.jpg)
+
 ---
 
 ## Features
@@ -13,7 +16,7 @@
 - **Quick Notes**: Capture thoughts on-the-go with our full-screen, high-performance editor.
 - **PYQs Access**: Easy access to Previous Year Question papers for all your semesters.
 - **Bento UI & Glassmorphism**: A modern design language inspired by Nothing OS and Apple's glassmorphism.
-- **Local-first Persistence**: Fast, offline data storage using **Isar DB**.
+- **Local-first Persistence**: Fast, offline data storage using **Hive CE**.
 - **Cross-Platform**: Smooth performance on both mobile and tablet devices.
 
 ---
